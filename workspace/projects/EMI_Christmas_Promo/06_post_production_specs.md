@@ -1,39 +1,25 @@
-### 🎬 後期製作規格 (Post-Production Specs)
+﻿# 06_後期製作規格 (Post-Production Specs)
 
-#### 1. 配音 (Voice Actor)
-*   **Voice Type:** Male, Mid-range, Reflective.
-*   **Tone:**
-    *   Start: Tired, cynical, slightly monotone.
-    *   Middle: Curious, softening.
-    *   End: Warm, emotional, sincere.
-*   **Pacing:** Fast and stressed at first, slowing down to a heartbeat rhythm.
+###  配音 (Voice Actor)
+*   **旁白人設:** Chris 的內心獨白 (Internal Monologue).
+*   **聲線:** 男性，30歲，低沉、感性、略帶沙啞 (Deep, emotional, slightly raspy).
+*   **語速:** 緩慢，留有呼吸空間 (Slow paced, breathing room).
 
-#### 2. 調色 (Color Grading)
-*   **Look A (The City):** "Cyberpunk Winter" - Teal & Orange (pushed to extremes), crushed blacks, cold highlights.
-*   **Look B (The Church):** "Golden Nativity" - Gold & Red, soft contrast, lifted shadows, warm highlights.
-*   **Transition:** Clip 3 acts as the gradient bridge.
+###  音效與配樂 (Sound Designer)
+*   **BGM:**
+    *   **00-04s:** 城市環境音 (City ambience), 遠處模糊的聖誕鈴聲 (Muffled Christmas bells).
+    *   **04-08s:** 鋼琴單音切入 (Piano solo starts), 帶有憂傷感.
+    *   **08-16s:** 大提琴加入 (Cello joins), 溫暖而厚實.
+    *   **16-32s:** 弦樂漸強 (Strings swell), 轉為大調 (Major key).
+    *   **32-64s:** 溫暖的管弦樂高潮 (Warm orchestral climax) + "平安夜" 旋律變奏.
+*   **SFX:**
+    *   Footsteps on pavement.
+    *   Door creaking open.
+    *   Match striking / Candle lighting sound (exaggerated).
 
-#### 3. 字幕 (Subtitles)
-*   **Font:**
-    *   CN: Songti (Serif) for a classic holiday feel.
-    *   EN: Baskerville (Serif).
-*   **Color:** Gold (Metallic texture) with soft shadow.
-*   **Position:** Bottom Center.
-
-#### 4. 音效與配樂 (Sound Designer)
-*   **Clip 1 (The Noise):**
-    *   **Music:** Distorted Christmas Jingles (Electronic/Remix), annoying beat.
-    *   **SFX:** Traffic horns, crowd noise, cash register beeps, overwhelming city ambience.
-    *   **Audio Prompt:** `Distorted Christmas jingles, traffic horns, crowd noise, chaotic city atmosphere`
-*   **Clip 3 (The Alley):**
-    *   **Music:** Music fades into a distant, pure choir (Silent Night).
-    *   **SFX:** Footsteps on snow/pavement, wind howling gently.
-    *   **Audio Prompt:** `Wind howling, footsteps, distant choir singing Silent Night, peaceful transition`
-*   **Clip 7 (The Light):**
-    *   **Music:** Acoustic Guitar & Cello, warm and intimate.
-    *   **SFX:** Match strike sound, candle burning crackle (subtle).
-    *   **Audio Prompt:** `Acoustic guitar and cello, match strike, candle crackling, intimate atmosphere`
-*   **Clip 8 (The Family):**
-    *   **Music:** Full Choir & Orchestra, majestic and celebratory.
-    *   **SFX:** Happy laughter, "Merry Christmas" shouts.
-    *   **Audio Prompt:** `Full choir and orchestra, happy laughter, Merry Christmas shouts, celebratory ending`
+###  調色 (Colorist)
+*   **LUT:** Kodak Vision3 500T emulation.
+*   **Grade:**
+    *   **Shadows:** Lifted slightly, teal tint in city scenes.
+    *   **Highlights:** Soft roll-off, golden tint in church scenes.
+    *   **Grain:** Fine 35mm grain.

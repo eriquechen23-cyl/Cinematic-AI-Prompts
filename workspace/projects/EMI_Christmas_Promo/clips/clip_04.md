@@ -1,29 +1,22 @@
-# Project: EMI_Christmas_Promo
-# Episode: 01_The_Greatest_Gift
-# Scene: 4
+﻿# Clip 04: The Invitation
 
-## Scene 4: The Invitation
-- **Description:** A little girl offers Chris a candle at the church entrance.
-- **Script (Voiceover):** "一個簡單的邀請，勝過千言萬語。"
-- **Subtitle:**
-  - **CN:** "一個簡單的邀請，勝過千言萬語。"
-  - **EN:** "A simple invitation, worth more than a thousand words."
-  - **Style:** Gold Serif Font.
-- **Audio & Music:**
-  - **BGM:** `Choir gets louder, clear`
-  - **SFX:** `Girl's giggle, fabric rustling`
-  - **Audio Prompt:** `Clear choir singing, girl giggling, peaceful atmosphere`
-- **Voice Prompt:** `Male voice, touched, surprised`
-- **Consistency Block (Shared Brain):**
-  - **Character:** `[Chris] surprised, [Little Girl] in red sweater`
-  - **Environment:** `Church entrance, wreath`
-- **Timeline (Beats & Angles):**
-  - `t0.0s~t4.0s`: **BEAT:** Girl extends candle. | **ANGLE:** Medium shot.
-  - `t4.0s~t8.0s`: **BEAT:** Chris accepts it. | **ANGLE:** Close up on hands.
-- **Action & Dynamics:** `Girl extends hand slowly`, `Chris stops abruptly`, `Hesitation then acceptance`
-- **VFX & Particles:** `Warm breath condensation`, `Soft bokeh`
-- **Visual Prompt (Raw):** `Medium shot, little girl in red sweater offering candle to [Chris], smiling, warm lighting, church entrance, heartwarming --ar 2.39:1`
-- **Visual Prompt (Optimized):** `Medium shot, cute little girl wearing red knitted sweater and white beanie, smiling innocently, holding out a white candle, [Chris] looking surprised, soft warm lighting on girl, bokeh background of church entrance, heartwarming moment --no scary, dark face --ar 2.39:1`
-- **Camera Motion:** Static
-- **Duration:** 8 seconds
-- **QA Status:** ✅ Pass (10/10)
+##  最終 Prompt 組合 (Final Prompt Assembly)
+\Cinematic lighting, Arri Alexa, Anamorphic lens, Emotional storytelling, Contrast between cold city and warm church, 8k resolution, hyper-realistic, [Little Girl], 6-8 years old asian girl, innocent smile, wearing red knitted reindeer sweater, red santa hat, Church entrance, warm amber light leaking out, simple nativity decoration, Little Girl handing a white candle to Chris, smiling warmly, Soft warm lighting on girl, bokeh background, Over the shoulder shot, Kodak Vision3 500T emulation, fine grain, cinematic color grading --ar 2.39:1 --v 6.0\
+
+###  組合元件 (Components)
+*   **導演風格:** Cinematic lighting, Arri Alexa, Anamorphic lens, Emotional storytelling, Contrast between cold city and warm church, 8k resolution, hyper-realistic
+*   **角色一致性:** [Little Girl], 6-8 years old asian girl, innocent smile
+*   **服裝細節:** wearing red knitted reindeer sweater, red santa hat
+*   **環境一致性:** Church entrance, warm amber light leaking out, simple nativity decoration
+*   **動作描述:** Little Girl handing a white candle to Chris, smiling warmly
+*   **燈光氛圍:** Soft warm lighting on girl, bokeh background
+*   **攝影參數:** Over the shoulder shot
+*   **調色風格:** Kodak Vision3 500T emulation, fine grain, cinematic color grading
+
+##  劇本 (Script)
+*   **時間:** 00:24 - 00:32
+*   **畫面:** Little Girl handing a candle to Chris.
+*   **動作:**
+    *   \	0.0s~t3.0s\: Chris 走到門口，猶豫是否要進去。
+    *   \	3.0s~t5.0s\: 小女孩（戴聖誕帽）突然出現，笑著遞出一支未點燃的蠟燭。
+    *   \	5.0s~t8.0s\: Chris 驚訝地接過蠟燭，嘴角微微上揚。

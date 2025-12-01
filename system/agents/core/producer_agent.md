@@ -21,12 +21,6 @@
 
 ## Scene [N]: [Clip Title]
 - **Description:** [Screenwriter's Description]
-- **Script (Voiceover):** "[Screenwriter's Text]"
-- **Subtitle:**
-  - **CN:** "[Chinese Text]"
-  - **EN:** "[English Text]"
-  - **Style:** [Subtitle Style]
-- **Voice Prompt:** `[Voice Actor Keywords]`
 - **Consistency Block (Shared Brain):**
   - **Character:** `[Fixed Description from Brain]`
   - **Environment:** `[Fixed Description from Brain]`
