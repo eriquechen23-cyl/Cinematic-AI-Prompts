@@ -1,65 +1,75 @@
-# 📜 分鏡腳本 (Screenplay)
+# 04_編劇劇本 (Screenplay)
 
-## Clip 1: The Noise
-*   **Time:** 00:00 - 00:08
-*   **Action:** Chris 在擁擠的人行道上逆流而行，被路人撞了一下肩膀，皺眉。
-*   **Voiceover:** "每年的這個時候，城市很吵，心卻很安靜。"
-*   **Subtitle:**
-    *   CN: "每年的這個時候，城市很吵，心卻很安靜。"
-    *   EN: "This time of year, the city is loud, but my heart is silent."
+### ✍️ 編劇劇本 (Screenwriter's Script)
 
-## Clip 2: The Empty Gift
-*   **Time:** 00:08 - 00:16
-*   **Action:** Chris 凝視著櫥窗裡的昂貴手錶，嘆了一口氣，轉身離開。
-*   **Voiceover:** "我們忙著交換禮物，卻忘了禮物的意義。"
-*   **Subtitle:**
-    *   CN: "我們忙著交換禮物，卻忘了禮物的意義。"
-    *   EN: "We're busy exchanging gifts, forgetting what they mean."
+#### Clip 1 (8s)
+*   **主體:** Chris (30s male, tired office worker) walking in crowded Xinyi district.
+*   **旁白:** "在這個充滿歡笑的節日，為什麼我只感到更深的孤單？"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 低頭看著手機，眉頭深鎖，周圍人群快速流動（縮時感）。
+    *   `t3.0s~t6.0s`: 他抬頭嘆氣，喝了一口手中的冷咖啡，表情苦澀。
+    *   `t6.0s~t8.0s`: 他轉身背對巨大的發光聖誕樹，顯得渺小而孤獨。
+*   **編劇 Prompt 關鍵字:** `Medium shot, Chris walking through crowded street, bokeh Christmas lights, tired expression, holding coffee cup, cinematic cold tones`
 
-## Clip 3: The Alley
-*   **Time:** 00:16 - 00:24
-*   **Action:** 遠離大街，Chris 走進巷子，被遠處溫暖的光吸引。
-*   **Voiceover:** "直到我看見那盞燈。"
-*   **Subtitle:**
-    *   CN: "直到我看見那盞燈。"
-    *   EN: "Until I saw that light."
+#### Clip 2 (8s)
+*   **主體:** Chris looking at a luxury shop window.
+*   **旁白:** "我們忙著交換禮物，卻忘了禮物的意義。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 站在櫥窗前，手指輕觸玻璃。
+    *   `t3.0s~t6.0s`: 櫥窗內的昂貴手錶與他疲憊的臉龐形成倒影重疊。
+    *   `t6.0s~t8.0s`: 他搖搖頭，轉身離開，身影消失在陰影中。
+*   **編劇 Prompt 關鍵字:** `Close up, reflection in window glass, luxury goods inside, Chris's sad face reflection, night city street, contrast lighting`
 
-## Clip 4: The Invitation
-*   **Time:** 00:24 - 00:32
-*   **Action:** 小女孩遞給 Chris 蠟燭，Chris 愣了一下，接過蠟燭。
-*   **Voiceover:** "一個簡單的邀請，勝過千言萬語。"
-*   **Subtitle:**
-    *   CN: "一個簡單的邀請，勝過千言萬語。"
-    *   EN: "A simple invitation, worth more than a thousand words."
+#### Clip 3 (8s)
+*   **主體:** Chris walking into a quiet alley, seeing the church.
+*   **旁白:** "直到我看見那道不一樣的光。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 走入暗巷，周圍噪音變小。
+    *   `t3.0s~t6.0s`: 他的視線被前方吸引，遠處一棟建築透出溫暖的光芒。
+    *   `t6.0s~t8.0s`: 鏡頭推進（Dolly In），聚焦在樸素的教會招牌與門口的燭光。
+*   **編劇 Prompt 關鍵字:** `Wide shot, dark alley, warm amber light glowing from distance, silhouette of Chris, mystery and hope`
 
-## Clip 5: The Warmth
-*   **Time:** 00:32 - 00:40
-*   **Action:** Chris 走進教會，脫下圍巾，表情放鬆下來。
-*   **Voiceover:** "這裡沒有喧囂，只有平安。"
-*   **Subtitle:**
-    *   CN: "這裡沒有喧囂，只有平安。"
-    *   EN: "Here, there is no noise, only peace."
+#### Clip 4 (8s)
+*   **主體:** Little Girl handing a candle to Chris.
+*   **旁白:** "沒有華麗的包裝，只有一句真誠的邀請。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 走到門口，猶豫是否要進去。
+    *   `t3.0s~t5.0s`: 小女孩（戴聖誕帽）突然出現，笑著遞出一支未點燃的蠟燭。
+    *   `t5.0s~t8.0s`: Chris 驚訝地接過蠟燭，嘴角微微上揚。
+*   **編劇 Prompt 關鍵字:** `Over the shoulder shot, little girl smiling, handing white candle, Chris's hand receiving it, warm bokeh background, focus on hands and candle`
 
-## Clip 6: The Manger
-*   **Time:** 00:40 - 00:48
-*   **Action:** 鏡頭掃過馬槽裡的嬰孩耶穌模型，然後帶到周圍唱詩的人們。
-*   **Voiceover:** "最好的禮物，不是買來的。"
-*   **Subtitle:**
-    *   CN: "最好的禮物，不是買來的。"
-    *   EN: "The greatest gift cannot be bought."
+#### Clip 5 (8s)
+*   **主體:** Chris entering the church.
+*   **旁白:** "推開門，我找到了遺失已久的溫度。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 推開木門，暖氣與光線溢出。
+    *   `t3.0s~t6.0s`: 主觀鏡頭（POV）掃視室內，人們在交談、擁抱，氣氛和樂。
+    *   `t6.0s~t8.0s`: Chris 走入人群，不再感到格格不入。
+*   **編劇 Prompt 關鍵字:** `Medium shot, Chris entering door, golden light rays, happy crowd in background, soft focus, atmosphere of belonging`
 
-## Clip 7: The Light
-*   **Time:** 00:48 - 00:56
-*   **Action:** 鄰座的人幫 Chris 點燃蠟燭，火光照亮他的臉，他微笑著流淚。
-*   **Voiceover:** "而是上帝與我們同在。"
-*   **Subtitle:**
-    *   CN: "而是上帝與我們同在。"
-    *   EN: "It is God with us."
+#### Clip 6 (8s)
+*   **主體:** Chris lighting his candle.
+*   **旁白:** "原來，愛不是索取，而是被點燃。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: 鄰座的人將自己的燭火傳遞給 Chris。
+    *   `t3.0s~t6.0s`: 特寫燭芯被點燃的瞬間，火光跳動。
+    *   `t6.0s~t8.0s`: 火光照亮 Chris 的臉，他的眼神充滿感動與平靜。
+*   **編劇 Prompt 關鍵字:** `Extreme close up, candle flame being lit, warm glow on face, teary eyes, emotional moment, high contrast chiaroscuro`
 
-## Clip 8: The Family
-*   **Time:** 00:56 - 01:04
-*   **Action:** 大家高舉蠟燭，畫面充滿光芒。Logo 出現。
-*   **Voiceover:** "EMI教會，祝你聖誕快樂。"
-*   **Subtitle:**
-    *   CN: "EMI教會，祝你聖誕快樂。"
-    *   EN: "EMI Church, Merry Christmas."
+#### Clip 7 (8s)
+*   **主體:** Chris crying/emotional during sermon.
+*   **旁白:** "這份禮物，是耶穌，是家。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t3.0s`: Chris 閉著眼，默默流下一滴淚。
+    *   `t3.0s~t6.0s`: 他深呼吸，彷彿卸下了千斤重擔。
+    *   `t6.0s~t8.0s`: 他睜開眼，微笑著看向前方（十字架或牧者）。
+*   **編劇 Prompt 關鍵字:** `Close up portrait, Chris emotional, single tear, soft warm lighting, background blurred church interior, spiritual awakening`
+
+#### Clip 8 (8s)
+*   **主體:** Group shot, raising candles.
+*   **旁白:** "EMI 教會，歡迎回家。聖誕快樂。"
+*   **動作時間軸 (Timeline):**
+    *   `t0.0s~t4.0s`: 全場會眾（包括 Chris）高舉手中的蠟燭。
+    *   `t4.0s~t6.0s`: 畫面慢慢拉遠（Zoom Out），呈現一片燭海。
+    *   `t6.0s~t8.0s`: 畫面淡出，浮現 Logo 與字幕。
+*   **編劇 Prompt 關鍵字:** `Wide shot, crowd holding candles, sea of lights, warm atmosphere, Chris smiling in center, text overlay space`

@@ -1,29 +1,33 @@
-# 🧠 共同大腦 (Continuity Bible)
+﻿# 03_連戲聖經 (Continuity Bible)
 
-## 👤 核心角色 (Character Profile)
-*   **名稱:** Chris
-*   **外型特徵:** 
-    *   28歲，上班族，穿著講究但略顯疲態。
-    *   深棕色短髮，戴著細框眼鏡。
-    *   表情初期緊繃、冷漠，後期柔和、感動。
-*   **服裝 (Costume):**
-    *   **外層:** 深灰色羊毛大衣 (Dark Grey Wool Coat)，圍著一條深藍色圍巾。
-    *   **內搭:** 白色襯衫，解開一顆釦子。
-    *   **配件:** 手提公事包，另一手拿著外帶咖啡杯。
-*   **Consistent Prompt:** `[Chris], 28 years old male, asian, short dark brown hair, wearing glasses, dark grey wool coat, dark blue scarf, white shirt, tired expression`
+###  共同大腦記憶庫 (Shared Memory)
 
-## 🌍 核心環境 (Core Environments)
-*   **環境 A: 繁華購物區 (Busy Shopping District)**
-    *   **氛圍:** 擁擠、商業化、冷冽。
-    *   **視覺元素:** 巨大的聖誕樹裝飾、閃爍的 LED 廣告看板、藍色與紫色的霓虹光、模糊的流動人群。
-    *   **Prompt:** `Busy shopping district at night, Christmas decorations, giant Christmas tree, neon billboards, blue and purple cyberpunk lighting, crowded, cold atmosphere`
+#### 1. 角色一致性 (Character Consistency)
+*   **主角 (Chris):**
+    *   **外觀:** 30歲亞洲男性，上班族。
+    *   **髮型:** 黑色短髮，略顯凌亂 (Messy black short hair)。
+    *   **服裝:** 深灰色長大衣 (Dark grey overcoat)，內搭白色襯衫 (White shirt) 與深藍色領帶 (Dark blue tie)，黑色西裝褲。
+    *   **道具:** 手持一個棕色皮革公事包 (Brown leather briefcase) 和一杯外帶咖啡紙杯 (Takeout coffee cup)。
+    *   **特徵:** 疲憊的黑眼圈，神情落寞。
+*   **配角 (Little Girl):**
+    *   **外觀:** 6-8歲亞洲女孩。
+    *   **服裝:** 紅色聖誕毛衣 (Red Christmas sweater)，戴著紅色聖誕帽 (Red Santa hat)。
+    *   **表情:** 燦爛、純真的笑容。
 
-*   **環境 B: EMI 教會 (EMI Church)**
-    *   **氛圍:** 溫馨、神聖、寧靜。
-    *   **視覺元素:** 磚牆建築或現代簡約設計，內部充滿暖黃色的燭光 (Candlelight) 與燈串 (Fairy Lights)，木質長椅，馬槽佈置。
-    *   **Prompt:** `Warm church interior, candlelight, fairy lights, wooden textures, nativity scene, golden atmosphere, cozy and inviting`
+#### 2. 環境一致性 (Environment Consistency)
+*   **場景 A: 信義區街頭 (Xinyi District Street):**
+    *   **氛圍:** 喧囂、擁擠、商業化。
+    *   **光影:** 藍色與紫色的霓虹燈光 (Blue and Purple Neon)，冷色調，高對比。
+    *   **細節:** 巨大的聖誕樹背景，模糊的路人。
+*   **場景 B: EMI 教會外觀 (EMI Church Exterior):**
+    *   **氛圍:** 安靜、樸素。
+    *   **光影:** 黑暗巷弄中透出的暖黃光 (Warm yellow light leaking from windows)。
+    *   **細節:** 簡單的馬槽佈置，門口有接待人員。
+*   **場景 C: EMI 教會內部 (EMI Church Interior):**
+    *   **氛圍:** 溫馨、充滿愛。
+    *   **光影:** 琥珀色燭光 (Amber candlelight)，柔和的頂光。
+    *   **細節:** 木質長椅，講台，充滿會眾。
 
-## 🎨 風格統一 (Style Consistency)
-*   **攝影機:** Sony Venice 2
-*   **鏡頭:** Vintage Lenses (復古鏡頭) - 為了後半段的溫暖質感。
-*   **長寬比:** 2.39:1 (Cinematic Widescreen)
+#### 3. 當前狀態 (Current State)
+*   **時間:** 聖誕夜 (Christmas Eve), 晚上 (Night).
+*   **天氣:** 微冷，無雨 (Cold, clear night).

@@ -1,17 +1,19 @@
-### 🎬 導演願景 (Director's Vision)
-*   **核心主題:** 從商業的冷漠到馬槽的溫暖 (From Commercial Coldness to Manger Warmth)
-*   **視覺風格:** 
-    *   **前半段:** 賽博龐克式的冷色調 (Cyberpunk/Cold Neon)，強調城市的擁擠與疏離感。高對比，銳利的藍光與紫光。
-    *   **後半段:** 經典電影的暖色調 (Classic Warmth/Kodak Gold)，強調燭光、膚色與木質質感。柔焦，夢幻的光暈 (Halation)。
-*   **關鍵參考:** *Last Christmas* (城市氛圍), *The Nativity Story* (光影質感), *Apple Holiday Commercials* (情感流動).
-*   **導演 Prompt 關鍵字 (英文):** `Cinematic bokeh, anamorphic lens flares, contrast between cold neon and warm candlelight, emotional close-ups, slow motion snow (symbolic), magical atmosphere, 8k resolution`
+﻿# 02_導演願景 (Director's Vision)
 
-### 🎞️ 鏡頭序列 (Shot List Breakdown)
-*   **Clip 1 (The Noise):** 繁華的購物區，Chris 孤單地走在模糊的人群中，周圍是刺眼的霓虹燈與促銷廣告。
-*   **Clip 2 (The Empty Gift):** Chris 站在精美的櫥窗前，看著倒影中的自己，表情空洞。手中提著昂貴但無意義的購物袋。
-*   **Clip 3 (The Alley):** 轉角處，遠處 EMI 教會的十字架發出柔和的光芒，與周圍的喧囂形成對比。
-*   **Clip 4 (The Invitation):** 教會門口，一位小女孩（天使般的形象）遞出一支未點燃的蠟燭，笑容純真。
-*   **Clip 5 (The Warmth):** Chris 推開門，室內金黃色的光線灑在他臉上，瞳孔中反射出溫暖。
-*   **Clip 6 (The Manger):** 教會內部的馬槽佈置，簡單卻神聖。人們圍繞著唱詩，氣氛祥和。
-*   **Clip 7 (The Light):** 特寫 Chris 手中的蠟燭被點燃，火光照亮了他的臉，淚光閃爍。
-*   **Clip 8 (The Family):** Chris 與教會的人們擁抱，大家舉起蠟燭，畫面充滿了無數溫暖的光點。字幕：EMI Church - The Greatest Gift is Love.
+###  導演願景 (Director's Vision)
+*   **核心主題:** 尋找歸屬 (Finding Belonging) - 從繁華的孤寂到簡樸的溫暖。
+*   **視覺風格:** 
+    *   **前半段:** 冷色調 (Cold Tones), 賽博龐克感的城市霓虹 (City Neon), 淺景深 (Shallow Depth of Field) 強調孤獨感。
+    *   **後半段:** 暖色調 (Warm Tones), 琥珀色燭光 (Amber Candlelight), 柔光 (Soft Diffusion) 強調接納與愛。
+*   **關鍵參考:** *Lost in Translation* (孤寂感), *The Nativity Story* (溫暖光影), 現代教會聖誕影片。
+*   **導演 Prompt 關鍵字 (英文):** Cinematic lighting, Arri Alexa, Anamorphic lens, Emotional storytelling, Contrast between cold city and warm church, 8k resolution, hyper-realistic
+
+###  鏡頭序列 (Shot List Breakdown)
+*   **Clip 1:** 繁華信義區街頭，Chris 疲憊地拿著冷咖啡穿梭在歡樂的人群中，顯得格格不入。
+*   **Clip 2:** Chris 駐足於精品店櫥窗前，看著昂貴禮物，倒影映出他空虛的眼神。
+*   **Clip 3:** 轉入安靜巷弄，遠處 EMI 教會透出溫暖的琥珀色光芒，與周圍冷暗形成對比。
+*   **Clip 4:** 教會門口，一位戴聖誕帽的小女孩帶著純真的笑容，遞給 Chris 一支蠟燭。
+*   **Clip 5:** Chris 推開教會大門，室內溫暖的光線與人們的笑臉迎面而來。
+*   **Clip 6:** 特寫 Chris 手中的蠟燭被點燃，火光照亮他的臉龐，眼神從防備轉為柔和。
+*   **Clip 7:** 牧者在台上分享（背景），Chris 在台下感動落淚，感受到久違的平安。
+*   **Clip 8:** 結尾畫面，Chris 與大家一同舉起蠟燭，畫面淡出出現字幕 "最好的禮物 - EMI Church"。

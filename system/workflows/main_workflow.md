@@ -43,12 +43,10 @@
     *   輸出：定義粒子、光效與特殊元素。
 
 ### 第五步：後期製作 (Post-Production - 聲音與色彩)
-12. **[配音員 Agent](../agents/post_production/voice_actor_agent.md):** 定義聲音人設。
-13. **[音效與配樂師 Agent](../agents/post_production/sound_designer_agent.md):**
+12. **[音效與配樂師 Agent](../agents/post_production/sound_designer_agent.md):**
     *   **輸入:** 故事情緒 + 畫面內容。
     *   輸出：定義 BGM 與 SFX。
-14. **[調色師 Agent](../agents/post_production/colorist_agent.md):** 定義色彩。
-15. **[字幕師 Agent](../agents/post_production/subtitle_agent.md):** 定義字幕風格與內容。
+13. **[調色師 Agent](../agents/post_production/colorist_agent.md):** 定義色彩。
 
 ### 第六步：提示詞優化 (Prompt Engineering)
 16. **[提示詞工程師 Agent](../agents/core/prompt_engineer_agent.md):** 
