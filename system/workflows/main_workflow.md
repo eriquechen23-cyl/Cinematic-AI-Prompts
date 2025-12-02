@@ -46,7 +46,11 @@
 12. **[音效與配樂師 Agent](../agents/post_production/sound_designer_agent.md):**
     *   **輸入:** 故事情緒 + 畫面內容。
     *   輸出：定義 BGM 與 SFX。
-13. **[調色師 Agent](../agents/post_production/colorist_agent.md):** 定義色彩。
+13. **[配音員 Agent](../agents/post_production/voice_actor_agent.md):** 
+    *   **輸入:** 劇本中的角色對白。
+    *   **限制:** **僅針對角色對白 (Dialogue Only)**，不處理旁白。
+    *   輸出：定義聲音人設與情緒。
+14. **[調色師 Agent](../agents/post_production/colorist_agent.md):** 定義色彩。
 
 ### 第六步：提示詞優化 (Prompt Engineering)
 16. **[提示詞工程師 Agent](../agents/core/prompt_engineer_agent.md):** 
