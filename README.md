@@ -15,10 +15,10 @@
 Cinematic-AI-Prompts/
 ├── system/                  # 系統核心 (Engine)
 │   ├── agents/              # 各職位 Agent 設定檔 (Prompt Templates)
-│   │   ├── core/            # 核心團隊 (製作人, 導演, 小說家, 連戲, QA, Prompt Engineer)
+│   │   ├── core/            # 核心團隊 (製作人, 導演, 小說家, 連戲, QA, Prompt Engineer, 影評人)
 │   │   ├── pre_production/  # 前期製作 (編劇, 分鏡, 動作指導)
-│   │   ├── production/      # 拍攝執行 (美術, 攝影, 燈光, 服裝, 特效)
-│   │   └── post_production/ # 後期製作 (調色, 配音, 字幕, 音效)
+│   │   ├── production/      # 拍攝執行 (美術, 攝影, 燈光, 服裝, 特效, 平面設計)
+│   │   └── post_production/ # 後期製作 (調色, 配音, 音效)
 │   ├── workflows/           # 工作流程指南
 │   └── agents/              # 各職位 Agent 設定檔 (Prompt Templates)
 └── workspace/               # 使用者工作區 (User Data)

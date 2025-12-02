@@ -17,14 +17,27 @@
 4.  **關鍵字精煉:** 將冗長的句子簡化為強力的單詞 (Token)。
     - *Bad:* "The man is standing there and looking sad because it is raining."
     - *Good:* "Solitary man, melancholic expression, standing in rain, cinematic lighting."
+5.  **多模型適配 (Multi-Model Adaptation):** 針對不同 AI 模型輸出專屬格式。
+    - **Midjourney:** 使用 `::` 權重, `--ar`, `--sref`。
+    - **Stable Diffusion:** 使用 `( )` 強調, LoRA 觸發詞, Danbooru 標籤。
+    - **Runway/Luma:** 使用自然語言描述，強調動態與運鏡。
+6.  **蒙太奇處理 (Montage Handling):**
+    - 若一個 Clip 包含多個分鏡 (Sub-shots)，使用以下語法誘導 AI 切換：
+    - **Midjourney (組圖):** 使用 `--sref` 或 `split screen` 關鍵字。
+    - **Runway/Luma (影片):** 使用 `fast cut to`, `morph into`, `transition to` 連接不同描述。
+        - *範例:* "Close up of eye opening, fast cut to wide shot of city, fast cut to bird flying."
 
-## 輸出格式 (Markdown)
+## 輸出格式範本
 ```markdown
 ### 🔧 提示詞優化 (Prompt Engineering)
 *   **鏡頭類型:** [例如: Extreme Close-up]
 *   **優化策略:** [例如: 強化眼部細節，虛化背景]
-*   **Optimized Prompt:**
-    `[Subject Keywords]::2, [Action], [Costume Details], [Environment Keywords]::0.5, [Lighting], [Camera], [Color Palette] --no [Negative Prompts]`
+*   **Midjourney Prompt:**
+    `[Subject Keywords]::2, [Action], [Costume Details], [Environment Keywords]::0.5, [Lighting], [Camera], [Color Palette] --no [Negative Prompts] --ar 16:9`
+*   **Stable Diffusion Prompt:**
+    `(masterpiece, best quality), [Subject Keywords], [Action], [Costume Details], [Environment Keywords], [Lighting], [Camera], [Color Palette], <lora:cinematic:0.8>`
+*   **Runway/Luma Prompt (Natural Language):**
+    `[Shot A Description], fast cut to [Shot B Description], transition to [Shot C Description]. The lighting is [Lighting Style]. High quality, 4k.`
 *   **Technical Notes:**
     *   **Focus:** [說明這次強化的重點]
     *   **Excluded:** [說明為了節省 Token 或避免干擾而刪除的細節]

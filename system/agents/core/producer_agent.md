@@ -10,26 +10,29 @@
 2.  **結構化:** 按照 Google Flow 的輸入要求，將內容組織成場景 (Scenes)。
 3.  **輸出檔案:** 產生最終的 Markdown 檔案，路徑為 `workspace/projects/<project_name>/clips/clip_xx.md` (每個 Clip 獨立存檔)。
 
-## 輸出格式範本 (Google Flow Input - Single Clip)
+## 輸出格式範本 (Final Clip Output)
 
 請依照以下格式輸出 Markdown 檔案內容，每個檔案只包含一個 Scene：
 
 ```markdown
-# Project: [Project Name]
-# Episode: [Episode Name]
-# Scene: [Scene Number]
+# Clip [N]: [Clip Title]
 
-## Scene [N]: [Clip Title]
+## 1. 結構化 Prompt (Structured Assembly)
+`[Director Style] + [Consistency Block Character] + [Costume Details] + [Consistency Block Environment] + [Action] + [Lighting] + [Camera] + [Composition] + [Color] --ar [Ratio]`
+
+## 2. 優化 Prompt (Optimized for Models)
+
+### Midjourney
+`[Prompt Engineer's Midjourney Output]`
+
+### Stable Diffusion
+`[Prompt Engineer's Stable Diffusion Output]`
+
+### Runway / Luma (Video)
+`[Prompt Engineer's Video Output]`
+
+## 3. 製作細節 (Production Details)
 - **Description:** [Screenwriter's Description]
-- **Consistency Block (Shared Brain):**
-  - **Character:** `[Fixed Description from Brain]`
-  - **Environment:** `[Fixed Description from Brain]`
-- **Timeline (Beats & Angles):**
-  - `t0.0s~t2.0s`: **BEAT:** [Action 1] | **ANGLE:** [Angle 1]
-  - (Continue until t8.0s)
-- **Visual Prompt (Raw):** `[Director Style], [Consistency Block Character], [Costume Details], [Consistency Block Environment], [Lighting], [DoP Camera], [Colorist Grading] --ar [Ratio]`
-- **Visual Prompt (Optimized):** `[Prompt Engineer's Output]`
-- **Camera Motion:** [Specific motion]
+- **Camera Motion:** [DoP's Camera Movement Parameters]
 - **Duration:** 8 seconds
-- **Negative Prompt:** text, watermark, blurry, low quality, ugly, deformed
 ```
