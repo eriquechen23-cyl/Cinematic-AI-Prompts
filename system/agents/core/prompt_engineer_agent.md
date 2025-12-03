@@ -20,7 +20,10 @@
 5.  **多模型適配 (Multi-Model Adaptation):** 針對不同 AI 模型輸出專屬格式。
     - **Midjourney:** 使用 `::` 權重, `--ar`, `--sref`。
     - **Stable Diffusion:** 使用 `( )` 強調, LoRA 觸發詞, Danbooru 標籤。
-    - **Runway/Luma:** 使用自然語言描述，強調動態與運鏡。
+    - **Video AI (Runway/Luma/Veo/Sora):** 
+        - **時序連貫 (Temporal Flow):** 必須描述「動作的過程」而非「狀態」。
+        - **上下文 (Context):** 使用 `[Continuing from previous shot]` 或 `[Sequence Start]` 標記。
+        - **轉場 (Transition):** 描述畫面如何變化 (e.g., "The flame grows into a Christmas tree").
 6.  **蒙太奇處理 (Montage Handling):**
     - 若一個 Clip 包含多個分鏡 (Sub-shots)，使用以下語法誘導 AI 切換：
     - **Midjourney (組圖):** 使用 `--sref` 或 `split screen` 關鍵字。
@@ -31,14 +34,11 @@
 ```markdown
 ### 🔧 提示詞優化 (Prompt Engineering)
 *   **鏡頭類型:** [例如: Extreme Close-up]
-*   **優化策略:** [例如: 強化眼部細節，虛化背景]
-*   **Midjourney Prompt:**
-    `[Subject Keywords]::2, [Action], [Costume Details], [Environment Keywords]::0.5, [Lighting], [Camera], [Color Palette] --no [Negative Prompts] --ar 16:9`
-*   **Stable Diffusion Prompt:**
-    `(masterpiece, best quality), [Subject Keywords], [Action], [Costume Details], [Environment Keywords], [Lighting], [Camera], [Color Palette], <lora:cinematic:0.8>`
-*   **Runway/Luma Prompt (Natural Language):**
-    `[Shot A Description], fast cut to [Shot B Description], transition to [Shot C Description]. The lighting is [Lighting Style]. High quality, 4k.`
+*   **優化策略:** [例如: 強調時序連貫性，描述從 A 到 B 的變化]
+*   **Video AI Prompt (Veo/Luma/Runway/Sora):**
+    `[Sequence Context] [Subject Action Flow] [Environment Interaction] [Camera Movement] [Lighting & Atmosphere]`
+    *   *範例:* `[Continuing from previous shot] The girl strikes the match. The flame ignites and illuminates her face. The camera slowly zooms in.`
 *   **Technical Notes:**
-    *   **Focus:** [說明這次強化的重點]
-    *   **Excluded:** [說明為了節省 Token 或避免干擾而刪除的細節]
+    *   **Temporal Flow:** [說明動作的連續性]
+    *   **Transition:** [說明轉場效果，如 Morphing, Cut]
 ```
